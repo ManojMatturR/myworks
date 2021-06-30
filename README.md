@@ -1,5 +1,3 @@
-# myworks
-regarding programming
 <html>
     <head>
         <title> Responsive login </title>
